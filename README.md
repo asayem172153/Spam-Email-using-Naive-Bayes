@@ -1,2 +1,3 @@
 # Spam Email using Naive Bayes
-**model:** MultinomialNB, BernoulliNB
+- **Model Used:** - MultinomialNB
+                  - BernoulliNB
